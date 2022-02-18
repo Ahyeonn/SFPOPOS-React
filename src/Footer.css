@@ -1,0 +1,11 @@
+.Footer {
+    margin-top: 30px;
+    padding: 20px;
+    border-top: solid;
+    border-width: 2px;
+    border-color: rgb(228, 173, 203);
+}
+
+.Footer > p {
+    color: rgb(118, 116, 119);
+}
