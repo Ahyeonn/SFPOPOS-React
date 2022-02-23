@@ -1,0 +1,18 @@
+.POPOSSpace {
+    width: 100%;
+    text-align: center;
+  }
+  
+.POPOSSpace > img {
+  width: 100%;
+  height: auto;
+}
+
+.POPOSSpace > .hours {
+  font-family:'Courier New', Courier, monospace;
+}
+
+.subtitle {
+  color: rgb(92, 90, 94);
+  text-decoration: none;
+}
